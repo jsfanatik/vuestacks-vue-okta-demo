@@ -13,8 +13,6 @@ export default {
   name: 'LoggedIn',
   data () {
     return {
-      name: null,
-      feedback: null,
       activeUser: {
         name: null
       }

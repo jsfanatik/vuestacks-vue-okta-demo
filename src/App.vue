@@ -3,7 +3,7 @@
     <nav class="green">
       <div class="nav-wrapper">
         <span class="brand-logo">VueStacks Chat App</span>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <ul class="right">
           <li><a @click.prevent="login" v-if="!activeUser">Login</a></li>
           <li><a @click.prevent="logout" v-if="activeUser">Logout</a></li>
         </ul>

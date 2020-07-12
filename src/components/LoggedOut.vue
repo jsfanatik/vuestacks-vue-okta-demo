@@ -7,17 +7,3 @@
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  name: 'LoggedOut',
-  data () {
-    return {
-      name: null,
-      feedback: null
-    }
-  },
-  methods: {
-  }
-}
-</script>
