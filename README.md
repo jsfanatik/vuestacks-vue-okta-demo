@@ -28,7 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/vue-okta-screenshot.png)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/vue-okta-screenshot.PNG)
 
 ### Overview
 
