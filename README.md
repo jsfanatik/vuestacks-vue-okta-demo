@@ -41,7 +41,7 @@ The tutorial for this demo can be found on the official VueStacks YouTube Channe
 **[Click here to learn more about building Vue.js CRUD apps with Okta](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)** 
 
 
-1) Sign up for a forever-free developer account
+1) Sign up for a forever-free developer account.
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-1.png)
 
