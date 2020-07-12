@@ -34,7 +34,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 The VueStacks Okta Authentication demo utilizes Vue.js and the Okta Vue SDK to create a basic authentication boilerplate. 
 
-The tutorial for this demo can be found on the official VueStacks YouTube Channel.
+Check out the [tutorial for this demo](https://www.youtube.com/playlist?list=PLu0jRv1ZDe49efAC3lZUfEcd7LRLJVilN) on the official VueStacks YouTube channel.
 
 ### Setting Up Okta Authentication
 
