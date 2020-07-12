@@ -28,7 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-vue-okta-demo/master/src/assets/vue-okta-screenshot.PNG)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-vue-okta-demo/master/src/assets/vue-okta-screenshot.jpg)
 
 ### Overview
 
