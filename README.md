@@ -1,4 +1,4 @@
-## vuestacks-chat-mevn-okta-auth
+## vuestacks-vue-okta-demo
 
 ## Project setup
 ```
@@ -32,28 +32,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Overview
 
-The VueStacks chat MEVN demo utilizes Vue-Router, Axios HTTP client, Express server, and Mongoose.js to post messages in a chatroom. 
+The VueStacks Okta Authentication demo utilizes Vue.js and the Okta Vue SDK to create a basic authentication boilerplate. 
 
-This demo utilizes Materialize CSS for general styling. See the CDN located in ```public/index.html```
-
-See chat component in ```components/Chat.vue```
-
-See login component in ```components/Home.vue```
-
-See ```api/post.route.js``` to view Express router setup.
-
-See ```api/post.model.js``` to view Mongoose schema setup.
-
-### Setting Up Node/Express/MongoDB
-
-1) Navigate to the folder “vuestacks-chat-mevn-mongoose/api” in the CLI
-2) Run ```npm install```
-3) Run ```nodemon server``` to start the server
-4) In cloud.mongodb.com, retrieve the connection string for your MongoDB cluster
-5) Add your connection string to ```DB = ''``` in ```api/DB.js```
+The tutorial for this demo can be found on the official VueStacks YouTube Channel.
 
 ### Setting Up Okta Authentication
-
 
 **[Click here to learn more about building Vue.js CRUD apps with Okta](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)** 
 
