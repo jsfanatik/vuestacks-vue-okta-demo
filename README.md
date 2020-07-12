@@ -28,7 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-mongoose/master/src/assets/vuestacks-chat.JPG)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-mongoose/master/src/assets/vue-okta-screenshot.png)
 
 ### Overview
 
